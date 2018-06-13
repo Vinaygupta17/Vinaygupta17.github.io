@@ -7,7 +7,7 @@
 }
 a.navbar-brand:hover{color:#fed136!important;}
 .navbar-right li a:hover{color:#fed136!important;}
-.navbar-right li a:hover{background-color:transparent;}
+.navbar-right li a:hover{ background-color:#696969;}
 .btn-primary:hover{background-color: #fed136;}
 .quicklinks li a:hover{color:#fed136!important;}
 .list-inline-item i:hover{background-color:#fed136!important;border:2px solid #fed136!important; }
@@ -156,6 +156,14 @@ textarea.form-control {height: 248px;}
 .serviceBox.purple .title:before{
     border-color: #9f2369;
     background: #9f2369;
+}
+
+.serviceBox.violet .service-icon{ background: linear-gradient(to bottom,transparent 49%,#9933cc 50%); }
+.serviceBox.violet .service-icon:after{ background: #9933cc; }
+.serviceBox.violet:hover .title{ color: #9933cc; }
+.serviceBox.violet .title:before{
+    border-color: #9933cc;
+    background: #9933cc;
 }
 @media only screen and (max-width:990px){
     .serviceBox{ margin-bottom: 10px; }
