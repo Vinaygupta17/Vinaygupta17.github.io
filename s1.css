@@ -5,7 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-.navbar-header{background-color:Black;}
+.container{background-color:Black;}
 a.navbar-brand:hover{color:#fed136!important;}
 .navbar-right li a:hover{color:#fed136!important;}
 .navbar-right li a:hover{ background-color:#696969;}
