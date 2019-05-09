@@ -13,7 +13,7 @@ a.navbar-brand:hover{color:#fed136!important;}
 .list-inline-item i:hover{background-color:#fed136!important;border:2px solid #fed136!important; }
 a{text-decoration:none;}
 body{margin:0px;overflow-x: hidden;}
-.container-fluid{padding:0px;}
+.container-fluid{padding:0px;postion:top;}
 .img1{background-image:url(header-bg.jpg);background-size: cover;background-repeat: no-repeat;background-attachment: scroll;background-position: center center;height: 800px;width: auto;}
 .navbar-brand{font-family:'Kaushan Script', cursive;color:#fed136;font-size: 1.75em}
 .navbar{margin-top:30px;margin-left:40px;}
